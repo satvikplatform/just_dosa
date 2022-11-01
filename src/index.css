@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.sidebar {
+    animation: sidebar 0.5s ease;
+    position: fixed;
+}
+
+@keyframes sidebar {
+    from {
+        left: -200px;
+    }
+    to {
+        left: 0;
+    }
+}
