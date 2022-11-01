@@ -12,6 +12,7 @@ function App() {
     <Specials />
     <Hero />
     <Footer />
+    <h1>sample</h1>
    </>
   )
 }
