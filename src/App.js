@@ -12,6 +12,7 @@ function App() {
     <Specials />
     <Hero />
     <Footer />
+    <h1>added again</h1>
    </>
   )
 }
