@@ -7,7 +7,7 @@ import Specials from './components/Specials';
 function App() {
   return (
    <>
-    <Navbar />
+    <Navbar  />
     <Cover />
     <Specials />
     <Hero />
